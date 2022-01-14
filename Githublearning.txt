@@ -6,3 +6,4 @@ Module 3 chat
 Module 4 group chat
 Module 5 Audio/video
 Module 6 Payment gateway
+Module 7 razorpay payment
